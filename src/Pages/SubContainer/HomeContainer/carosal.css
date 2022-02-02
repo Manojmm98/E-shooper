@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.carousel {
+  display: flex;
+  justify-content: center;
+}
+
+.carousel .slide {
+  background-color: aqua;
+  height: auto;
+}
+
+.carousel .slide img {
+  max-width: 100%;
+  width: auto;
+}
+
+.image {
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
